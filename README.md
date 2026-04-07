@@ -27,16 +27,6 @@ fitness-tracker-project/
 ├── fitness_tracker.py     # Main program
 ├── fitness_tracker.csv    # Dataset file
 └── README.md              # Project documentation
-##How to Run the Project
-
-### 1. Install Required Libraries
-
-Run this command in terminal:
-pip install pandas numpy matplotlib seaborn
-
-### 2. Run the Program
-python fitness_tracker
-
 ## Dataset Information
 
 The dataset contains the following columns:
