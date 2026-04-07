@@ -20,13 +20,6 @@ The Personal Fitness Tracker Dashboard is a Python-based project that helps user
 * **NumPy** → Numerical computations
 * **Matplotlib** → Data visualization
 * **Seaborn** → Advanced visualization
-
-## Project Structure
-fitness-tracker-project/
-│
-├── fitness_tracker.py     # Main program
-├── fitness_tracker.csv    # Dataset file
-└── README.md              # Project documentation
 ## Dataset Information
 
 The dataset contains the following columns:
